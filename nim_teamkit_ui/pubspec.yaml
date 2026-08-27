@@ -19,8 +19,8 @@ dependencies:
     ">=10.9.5 <10.10.0"
 #    path: ../nim_chatkit
   nim_chatkit_ui:
-    ">=10.9.5 <10.10.0"
-#    path: ../nim_chatkit_ui
+#    ">=10.9.5 <10.10.0"
+    path: ../nim_chatkit_ui
   netease_common_ui:
     ">=10.9.5 <10.10.0"
 #    path: ../../common/netease_common_ui
